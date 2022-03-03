@@ -1,0 +1,1 @@
+KUBEBUILDER_ASSETS=`cat kpath` ./nanokube
